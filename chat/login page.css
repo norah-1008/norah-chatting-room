@@ -1,0 +1,20 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+input{
+  color: rgb(153,153,153);
+}
+.box1,
+.box2{
+  float: left;
+}
+.box2{
+  margin-top: 335px;
+  margin-left: 210px;
+}
+.input1{
+  margin-bottom: 20px;
+  /* background-color: pink; */
+  display: block;
+}
